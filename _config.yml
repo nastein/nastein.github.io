@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Noah Steinberg"
+title                    : "Noah Steinberg / GitHub Site"
 title_separator          : "-"
 name                     : &name "Noah Steinberg"
-description              : &description "Postdoctoral Researcher at Fermi National Accelerator Laboratory"
+description              : &description "Theoretical Physicist, Programmer, Rock Climber, Constant Project Starter"
 url                      : https://nastein.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nastein.github.io"
+repository               : "nastein/nastein.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "nsteinbe@fnal.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,8 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 
-  orcid            : "http://orcid.org/0000-0003-0427-4888"
+  orcid            : "https://arxiv.org/a/0000-0003-0427-4888.html"
+  inspire          : "https://inspirehep.net/authors/1597753"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
